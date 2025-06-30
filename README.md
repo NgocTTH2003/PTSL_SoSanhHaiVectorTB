@@ -19,20 +19,20 @@ Xác định xem có khác biệt thống kê về điểm Toán giữa học si
 
 ### 🗂️ Nội dung:
 
-📈 Khảo sát phân phối: Boxplot & Q–Q plot
+- 📈 Khảo sát phân phối: Boxplot & Q–Q plot
 
-🔍 Kiểm định chuẩn: Shapiro–Wilk test (p-value)
+- 🔍 Kiểm định chuẩn: Shapiro–Wilk test (p-value)
 
-⚖️ Kiểm định phương sai: F-test (tỉ số phương sai)
+- ⚖️ Kiểm định phương sai: F-test (tỉ số phương sai)
 
-🧮 So sánh trung bình: Two-sample t-test & CI 95%
+- 🧮 So sánh trung bình: Two-sample t-test & CI 95%
 
 ### Kết luận mẫu:
 
-✅ Phân phối đều chuẩn 
+- ✅ Phân phối đều chuẩn 
 
-✅ Phương sai của điểm số Toán giữa hai nhóm nam và nữ có thể được xem là bằng nhau
+- ✅ Phương sai của điểm số Toán giữa hai nhóm nam và nữ có thể được xem là bằng nhau
 
-✅ Hiệu trung bình có ý nghĩa (CI không chứa 0)
+- ✅ Hiệu trung bình có ý nghĩa (CI không chứa 0)
 
 
